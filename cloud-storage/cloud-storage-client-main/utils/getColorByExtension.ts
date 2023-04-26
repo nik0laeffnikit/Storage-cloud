@@ -4,8 +4,11 @@ const extColor = {
   doc: "blue",
   txt: "blue",
   png: "orange",
+  PNG: "orange",
   jpg: "orange",
+  JPG: "orange",
   jpeg: "orange",
+  JPEG: "orange",
   zip: "red",
 } as const;
 
